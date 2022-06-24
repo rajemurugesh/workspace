@@ -1,0 +1,12 @@
+/*footer */
+.footer{
+    background:none;
+    color: #fff;
+    height: 100px;
+    bottom: 25px auto;
+}
+.footer-bottom{
+    background: none;
+    color: bisque;
+    padding-bottom: 250px;
+}
